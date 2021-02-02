@@ -1,17 +1,17 @@
 # linux-cmd
 1. IFCONFIG COMMAND
-This command is for finding your IP address and default gateway.
+<br>This command is for finding your IP address and default gateway.
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106436795-607a5a00-6429-11eb-8331-b2ed9f6c507d.JPG)
 
-2. ARP COMMAND
-This command is for showing the address resolution cache. Arp command must be used with a command line switch arp -a is the most common.
+<br>2. ARP COMMAND
+<br>This command is for showing the address resolution cache. Arp command must be used with a command line switch arp -a is the most common.
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106574866-48b9d900-64f0-11eb-8e30-4b9b86a718f6.JPG)
 
-3. NSLOOKUP
-To use a specific DNS server for the query, add the server name or IP address to the end of the command. 
+<br>3. NSLOOKUP
+<br>To use a specific DNS server for the query, add the server name or IP address to the end of the command. 
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106575494-01801800-64f1-11eb-98b8-1f04b0fecf40.JPG)
 <br>From this, we can see that example.com is currently pointing to IP address 93.184.216.34. We can also see that DNS server example.com was used for the query.
-4. NETSTAT
+<br>4. NETSTAT
 <br>![Capture](https://user-images.githubusercontent.com/44020138/106576548-2032de80-64f2-11eb-8e37-38d14d1457eb.JPG)
 <br>The output mean:
 <br>Recv-Q
